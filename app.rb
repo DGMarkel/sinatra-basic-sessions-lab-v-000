@@ -4,6 +4,6 @@ class App < Sinatra::Base
 
   get '/' do
     @session = session
-  end 
+  end
   
 end
